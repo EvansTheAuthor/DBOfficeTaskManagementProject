@@ -19,29 +19,31 @@ btnTeam (done)
 btnReturn (done)  
 btnManagerCheck (done)  
 btnDataEdit (done)  
-tblEmployee ()
+tblEmployee (done)(SQL Connected: available)
 
 **EmployeeDataInput**  
-btnAdd (done)(SQL Connected: not yet)  
-btnUpdate(done)(SQLConnected: not yet)  
+btnAdd (done)(SQL Connected: available)  
+btnUpdate(done)(SQL Connected: available)  
 btnReturn (done)
 
 **ManagerTableInterface**  
 btnReturn (done)  
-btnDataEdit (done)
+btnDataEdit (done)  
+tblManager(done)(SQLConnected: available)
 
 **ManagerDataInput**
-btnAdd (done)(SQL Connected: not yet)  
-btnUpdate(done)(SQLConnected: not yet)  
+btnAdd (done)(SQL Connected: available)  
+btnUpdate(done)(SQL Connected: available)  
 btnReturn (done)
 
 **TaskTableInterface**  
 btnReturn (done)  
 btnDataEdit (done)  
-btnToTeam (done)
+btnToTeam (done)  
+tblTask(need to developed more)((SQL Connected: not yet)
 
 **TaskDataInput**  
-btnAdd ()(SQL Connected: not yet)  
+btnAdd (need to developed more)(SQL Connected: not yet)  
 btnUpdate(done)  *move to TaskDataEditor  
 cbTask (not checked)  
 cbAssignedTo (not checked)  
